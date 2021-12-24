@@ -153,9 +153,9 @@ namespace LSPTools
             this.checkOver.AutoSize = true;
             this.checkOver.Location = new System.Drawing.Point(346, 18);
             this.checkOver.Name = "checkOver";
-            this.checkOver.Size = new System.Drawing.Size(120, 16);
+            this.checkOver.Size = new System.Drawing.Size(96, 16);
             this.checkOver.TabIndex = 11;
-            this.checkOver.Text = "确保有超输出电压";
+            this.checkOver.Text = "确保有超电压";
             this.checkOver.UseVisualStyleBackColor = true;
             this.checkOver.CheckedChanged += new System.EventHandler(this.checkOver_CheckedChanged);
             // 
